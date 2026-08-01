@@ -14,6 +14,7 @@ Microsoft Excel – Data Cleaning & Preparation
 Microsoft Power BI – Data Modeling & Dashboard Development
 Power Query – Data Transformation
 DAX – Measures and Calculated Columns
+ADDED COST OF FUEL IN THE CORRECSPONDING YEAR FOR CLEAR DATA VISUALIZATION.
 
 The dataset contains 50 logistics trip records with key operational attributes, including:
 
@@ -70,7 +71,8 @@ Data Visualization
 ![IMAGES](IMAGES/PAGE1.png)
 
 📫 Contact
-Your Name - INDRAJITH P M
+Name - INDRAJITH P M
 
+LinkedIn: www.linkedin.com/in/indrajith-p-m-a47a78218
 
 
