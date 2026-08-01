@@ -67,7 +67,7 @@ Logistics Analytics
 Data Visualization
 
 📷 Dashboard Preview
-![IMAGES](IMAGE/PAGE1.png)
+![IMAGES](IMAGES/PAGE-1.png)
 
 📫 Contact
 Your Name - INDRAJITH P M
